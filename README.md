@@ -1,0 +1,1 @@
+Silly project to learn how ratpack works.
